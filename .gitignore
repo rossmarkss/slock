@@ -1,0 +1,6 @@
+# Patches
+*.orig
+
+# Binaries
+*.o
+slock
